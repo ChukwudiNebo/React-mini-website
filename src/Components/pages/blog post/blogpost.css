@@ -34,6 +34,7 @@
   }
   .blogPost__paragraph > div {
     margin-top: 15px;
+    line-height: 1.5rem;
   }
 }
 @media screen and (min-width: 576px) {
@@ -71,7 +72,7 @@
   .blogPost__paragraph {
     width: 980px;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 20px;
     padding-bottom: 60px;
     padding-left: 0px;
     padding-right: 0px;
