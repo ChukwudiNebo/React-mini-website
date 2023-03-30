@@ -1,4 +1,5 @@
-import React from "react";
+import React,{useState,useEffect} from "react";
+import {Link} from 'react-router-dom'
 import Text from "../../atoms/text/Text";
 import Input from "../../atoms/input/Input";
 import Button from "../../atoms/button/Button";
@@ -58,9 +59,11 @@ const SignUp = () => {
             </form>
           </div>
           <div className="d-flex align-items-center justify-content-between flex-wrap signUp__button">
-            <div>
-              <Button buttonText="SUBMIT" />
-            </div>
+            <Link to="/blog">
+              <div>
+                <Button buttonText="SUBMIT" />
+              </div>
+            </Link>
             <div className="signUp__bottomText">
               <div>
                 <Text text="already have an account?" />

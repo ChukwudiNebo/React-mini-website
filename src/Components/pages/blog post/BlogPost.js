@@ -21,21 +21,21 @@ Workaround It."
         <div className="blogPost__paragraph">
           <div>
             <Text
-              text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, enim harum. Esse repellendus quae explicabo vel voluptatibus et similique inventore reprehenderit cupiditate, ipsum nesciunt, deleniti fuga qui quos. At, eum.
+              text="lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, enim harum. Esse repellendus quae explicabo vel voluptatibus et similique inventore reprehenderit cupiditate, ipsum nesciunt, deleniti fuga qui quos. At, eum.
             Omnis molestias distinctio, ea facere labore voluptatibus pariatur odio architecto ipsa delectus ex aperiam inventore laborum nulla quasi aliquam, suscipit assumenda? Repellat autem similique modi quae rerum? In, aut obcaecati.
             Dolores dolor ab impedit, odio perspiciatis, optio, natus eaque esse suscipit ratione exercitationem enim. Tempora ipsa voluptatum dolore architecto quas. Ex suscipit vitae facilis odio enim nesciunt voluptatibus at atque."
             />
           </div>
           <div className="blogPost__paragraph-1">
             <Text
-              text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, enim harum. Esse repellendus quae explicabo vel voluptatibus et similique inventore reprehenderit cupiditate, ipsum nesciunt, deleniti fuga qui quos. At, eum.
+              text="lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, enim harum. Esse repellendus quae explicabo vel voluptatibus et similique inventore reprehenderit cupiditate, ipsum nesciunt, deleniti fuga qui quos. At, eum.
             Omnis molestias distinctio, ea facere labore voluptatibus pariatur odio architecto ipsa delectus ex aperiam inventore laborum nulla quasi aliquam, suscipit assumenda? Repellat autem similique modi quae rerum? In, aut obcaecati.
             Dolores dolor ab impedit, odio perspiciatis, optio, natus eaque esse suscipit ratione exercitationem enim. Tempora ipsa voluptatum dolore architecto quas. Ex suscipit vitae facilis odio enim nesciunt voluptatibus at atque."
             />
           </div>
           <div>
             <Text
-              text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, enim harum. Esse repellendus quae explicabo vel voluptatibus et similique inventore reprehenderit cupiditate, ipsum nesciunt, deleniti fuga qui quos. At, eum.
+              text="lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, enim harum. Esse repellendus quae explicabo vel voluptatibus et similique inventore reprehenderit cupiditate, ipsum nesciunt, deleniti fuga qui quos. At, eum.
             Omnis molestias distinctio, ea facere labore voluptatibus pariatur odio architecto ipsa delectus ex aperiam inventore laborum nulla quasi aliquam, suscipit assumenda? Repellat autem similique modi quae rerum? In, aut obcaecati.
             Dolores dolor ab impedit, odio perspiciatis, optio, natus eaque esse suscipit ratione exercitationem enim. Tempora ipsa voluptatum dolore architecto quas. Ex suscipit vitae facilis odio enim nesciunt voluptatibus at atque."
             />
