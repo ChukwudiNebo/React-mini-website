@@ -1,0 +1,19 @@
+.background-image {
+  background-image: url("../../../images/Side-Background.png");
+  width: 413px;
+  height: 100vh;
+  border-right: 3px solid #6EEB83 ;
+}
+
+.background-image__text{
+  font-size: 50px;
+  font-weight: bold;
+  position: relative;
+  top: 30%;
+  transform:rotate(270deg);
+  transform: translate(50%,50%);
+  -webkit-transform:rotate(270deg);
+  -moz-transform:rotate(270deg);
+  -ms-transform:rotate(270deg);
+  -o-transform:rotate(270deg);
+}
