@@ -3,6 +3,8 @@
     background-color: #272727;
     color: white;
     height: 120vh;
+    font-family: 'Lexend Deca', sans-serif;
+/* font-family: 'Roboto', sans-serif; */
     /* padding-left: 30px; */
   }
 
@@ -13,12 +15,14 @@
 
   .signUp__heading {
     font-size: 35px;
-    font-weight: bold;
+    /* font-weight: 400; */
+    font-family: 'DM Serif Display', serif;
   }
 
   .signUp__heading-paragraph {
     color: #a5a5a5;
     font-size: 20px;
+    font-weight: 300;
     /* color: #a5a5a5; */
   }
 
@@ -27,8 +31,10 @@
   }
 
   .signUp__input > input::placeholder {
-    font-size: 13px;
+    font-size: 16px;
     padding-left: 2px;
+    font-weight: 300;
+
   }
 
   .signUp__form {
@@ -56,11 +62,17 @@
     background-color: #272727;
     color: white;
     height: 100vh;
+    width: 100%;
     /* padding-left: 30px; */
   }
 
+  .signUp__one{
+   width:32% 
+  }
+
   .signUp__two{
-    margin-left: 80px;
+    margin-left: 130px;
+    width: 68%;
   }
 
   .signUp__header {
@@ -70,30 +82,35 @@
   }
 
   .signUp__heading {
-    font-size: 45px;
-    font-weight: bold;
+    font-size: 48px;
+    height: 65px;
+    /* font-weight: bold; */
   }
 
   .signUp__heading-paragraph {
     color: #a5a5a5;
-    font-size: 19px;
+    font-size: 24px;
     /* color: #a5a5a5; */
   }
 
   .signUp__input > input {
     background-color: #272727;
-    width: 480px !important;
+    width: 100%;
+    /* width: 480px !important; */
     color: white;
   }
 
   .signUp__input > input::placeholder {
-    font-size: 13px;
-    padding-left: 2px;
+    /* padding-left: 30px; */
+    font-size: 16px;
+    padding-left: 15px;
   }
 
   .signUp__form {
-    margin-top: 35px;
+    margin-top:44px;
     margin-left: 30px;
+    margin-right: 250px;
+
   }
   .signUp__button {
     margin-left: 30px;
@@ -101,10 +118,13 @@
   .signUp__bottomText {
     margin-top: 0px;
     width: unset;
+    font-size: 18px;
   }
   .signUp__bottomText-login {
     color: #6eeb83;
     margin-top: -5px;
+    margin-right: 390px;
+
     /* margin-bottom: 20px; */
   }
 }

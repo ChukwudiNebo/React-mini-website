@@ -1,4 +1,4 @@
-import React,{useState,useEffect} from "react";
+import React from "react";
 import {Link} from 'react-router-dom'
 import Text from "../../atoms/text/Text";
 import Input from "../../atoms/input/Input";
@@ -10,7 +10,7 @@ const SignUp = () => {
   return (
     <>
       <div className="d-flex signUp">
-        <div className="d-none d-lg-block">
+        <div className="d-none d-lg-block signUp__one">
           <BgText text="Sign Up" />
         </div>
         <div className="signUp__two">
